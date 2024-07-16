@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gtm1033 (Gautam Arora)
-- 👀 I’m interested in web development and data science.
+- 👀 I’m interested in Web Development and Data Science.
 - 🌱 I’m currently learning more about advanced web technologies and data analysis.
 - 💞️ I’m looking to collaborate on open-source projects in web development and data science.
 - 📫 How to reach me → Email me at gautamarora100303@gmail.com .
